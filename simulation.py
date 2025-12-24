@@ -42,7 +42,7 @@ while True:
 
     # B. Collision Detection
     if distance < 35:
-        print("MISSION FAILURE: Impact with the Absolute.")
+        print("MISSION FAILURE: Impact with entity")
         break
 
     # C. Gravity Calculation (F = G / r^2)
